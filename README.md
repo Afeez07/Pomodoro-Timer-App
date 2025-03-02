@@ -1,8 +1,8 @@
-**Pomodoro Timer App**
+# Pomodoro Timer App
 
 A Python GUI application built with tkinter to help you manage your work and break intervals using the Pomodoro Technique. Stay productive, track your progress, and take breaks effectively.
 
-**Features**
+# Features
 
 * Work Sessions: 25 minutes of focused work.
 
@@ -14,7 +14,7 @@ A Python GUI application built with tkinter to help you manage your work and bre
 
 * Reset Functionality: Easily reset the timer and session count.
 
-**How It Works**
+# How It Works
 
 1. Click Start to begin the timer.
 
@@ -26,12 +26,12 @@ A Python GUI application built with tkinter to help you manage your work and bre
 
 5. Click Reset to clear the timer and start over.
 
-**Requirements**
+# Requirements
 
 Python 3.12
 
 tkinter (comes pre-installed with Python)
 
-**Contributing**
+# Contributing
 
 Contributions are welcome, If you’d like to improve this project, feel free to open an issue or submit a pull request.
